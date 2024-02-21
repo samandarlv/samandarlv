@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samandar Tajibayev</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Full-stack developer from Uzbekistan</h3>
 
-- ⚙️ My specialty : `Node.js`, `Nest.js`, `PostgreSql`
+- ⚙️ My specialty : `Node.js`, `Nest.js`, `PostgreSql`, `Vue.js`
 - 💻 My programming languages :`TypeScript`, `JavaScript`,
 - ⚔️ Technogies and tools : `Node.js`, `git`, `postgre sql`,
 - 📫 How to reach me:  [telegram](https://t.me/tajibayev04),  [gmail](tajibayevsamandar5@gmail.com)
